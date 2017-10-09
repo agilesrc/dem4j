@@ -25,6 +25,6 @@ Maven repository url : https://dl.bintray.com/agilesrc/maven
   <groupId>com.agilesrc.dem</groupId>
   <artifactId>dem4j</artifactId>
   <version>1.1</version>
-  <type>pom</type>
+  <type>jar</type>
 </dependency>
 ```
