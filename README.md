@@ -15,3 +15,16 @@ level 1 and 3 files. dem4j is currently released the Apache License, Version 2.0
 
 * [NGA Raster Roam](http://geoengine.nga.mil/geospatial/SW_TOOLS/NIMAMUSE/webinter/rast_roam.html)
 * [GIS Data Depot](http://data.geocomm.com/catalog/)
+
+# Maven
+
+Maven repository url : https://dl.bintray.com/agilesrc/maven
+
+```
+<dependency>
+  <groupId>com.agilesrc.dem</groupId>
+  <artifactId>dem4j</artifactId>
+  <version>1.1</version>
+  <type>pom</type>
+</dependency>
+```
